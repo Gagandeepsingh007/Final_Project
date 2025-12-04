@@ -11,10 +11,10 @@ Kavya Goyal
 ```
 ```
 Rahul Malik
-
+239583420
 ```
 ## Website 
-The wesite is a simple online store where you can reginter and then login for shopping. You can add items to your cart and then checkout as well. After checkout you will will see you order under the orders tab.
+The wesite is a simple online store where you can register and then login for shopping. You can add items to your cart and then checkout as well. After checkout you will see you order under the orders tab. You can also login as admin the credentials in admin/admin.txt or you can create your own credentials using the adminpasword.php .
 
 ## Code
-We used php for the front end as well as back end of this website and used SQL for storing the data. 
+We used php for the front end as well as back end of this website and used SQL for storing the data. The name of the SQL database is rkg_computers. 
