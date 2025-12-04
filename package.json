@@ -1,0 +1,24 @@
+{
+  "name": "rkg_comps",
+  "version": "1.0.0",
+  "description": "A full-stack web application for an online computer store RKG Computers built with PHP, MySQL, HTML5, CSS (Bootstrap), and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagandeepsingh007/Final_Project.git"
+  },
+  "keywords": [],
+  "author": "Gagandeep Singh, Rahul Malik, Kavya Goyal",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gagandeepsingh007/Final_Project/issues"
+  },
+  "homepage": "https://github.com/Gagandeepsingh007/Final_Project#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}

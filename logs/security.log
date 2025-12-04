@@ -1,0 +1,18 @@
+2025-07-25 00:09:21 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@computerstore.com
+2025-12-02 04:32:27 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@rkgcomputers.ca
+2025-12-02 04:45:26 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@rkgcomputers.ca
+2025-12-02 05:39:42 - USER_REGISTRATION - IP: ::1 - Email: gsingh@yahoo.ca
+2025-12-02 05:39:59 - LOGIN_SUCCESS - IP: ::1 - User ID: 2, Email: gsingh@yahoo.ca
+2025-12-02 06:39:19 - USER_REGISTRATION - IP: ::1 - Email: Rmakil@gmail.com
+2025-12-02 06:40:15 - USER_REGISTRATION - IP: ::1 - Email: K@hotmail.com
+2025-12-03 00:47:56 - LOGIN_FAILED - IP: ::1 - Email: admins@rkgcomputers.ca
+2025-12-03 00:48:23 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@rkgcomputers.ca
+2025-12-03 00:52:06 - USER_REGISTRATION - IP: ::1 - Email: RMalik@gamil.com
+2025-12-03 00:52:59 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@rkgcomputers.ca
+2025-12-03 00:56:08 - LOGIN_FAILED - IP: ::1 - Email: gsingh@gamil.com
+2025-12-03 00:57:06 - LOGIN_SUCCESS - IP: ::1 - User ID: 2, Email: gsingh@yahoo.ca
+2025-12-03 01:00:18 - LOGIN_SUCCESS - IP: ::1 - User ID: 2, Email: gsingh@yahoo.ca
+2025-12-03 01:02:15 - LOGIN_SUCCESS - IP: ::1 - User ID: 1, Email: admin@rkgcomputers.ca
+2025-12-03 01:26:57 - LOGIN_FAILED - IP: ::1 - Email: rmalik@gmail.com
+2025-12-03 01:28:30 - LOGIN_SUCCESS - IP: ::1 - User ID: 5, Email: rmalik@gamil.com
+2025-12-04 03:24:58 - LOGIN_SUCCESS - IP: ::1 - User ID: 2, Email: gsingh@yahoo.ca
